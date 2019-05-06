@@ -1,0 +1,2 @@
+# DWIN_TEST_TOOL_WIN
+windows版本DWIN屏测试工具，主要用于测试显示电压电流值
